@@ -4,7 +4,10 @@ void joo();
 void tablawy();
 void essam();
 
-
+void kirolos()
+{
+  printf("kirolos");
+}
 void main(void){
 
 
@@ -34,3 +37,4 @@ void essam()
   printf("esam mohamed");
 
 }
+
